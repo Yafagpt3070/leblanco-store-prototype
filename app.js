@@ -1,7 +1,7 @@
 'use strict';
 /* Leblanco storefront prototype. All state is in memory (no browser storage). */
 
-const BRAND = { email:'sales@leblanco.ca', phone:'905-949-4717', toll:'1-877-854-0202', addr:'Building 4, Unit 2, 2446 Cawthra Road, Mississauga, ON L5A 3K6' };
+const BRAND = { email:'info@alraqeem.com', phone:'905-949-4717', toll:'1-877-854-0202', addr:'Building 4, Unit 2, 2446 Cawthra Road, Mississauga, ON L5A 3K6' };
 
 const PROVINCES = [
   ['AB','Alberta',5],['BC','British Columbia',5],['MB','Manitoba',5],['NB','New Brunswick',15],['NL','Newfoundland and Labrador',15],
